@@ -10,7 +10,7 @@ Indeed the longer the password, the harder it is to create and remember.
 Luckly, this program has saved me the hassel of password creation.
 Simply enter the desired length (25 is a good secure length), capital letters (most websites required at least one capital letter), and numbers & special characters (also required by most websites).
 
-*Word of caution* While it is tempting to save these digially created password to a document on your computer, be aware of the danger of digitally storing your passwords in an unsecure location.
+_Word of caution_ While it is tempting to save these digially created password to a document on your computer, be aware of the danger of digitally storing your passwords in an unsecure location.
 If you want to save these passwords to your computer, password protect this document with encryption or an application that has encryption buildin.
 
 ## Running the code
