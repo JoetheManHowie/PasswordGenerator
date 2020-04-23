@@ -10,3 +10,7 @@ The current arguments need are in order
 - length of password (int)
 - number of capital letters (int)
 - number of special characters and numbers (int)
+
+### example run
+
+`python password_generator.py ../howtochangeyourmindsummary.txt 25 5 5`
